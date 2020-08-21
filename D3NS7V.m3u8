@@ -10,13 +10,13 @@ http://210.210.155.35/session/e81ca08c-e3b2-11ea-a183-b82a72d63267/qwr9ew/s/s03/
 http://210.210.155.35/session/f9297d82-e3b2-11ea-87e1-c81f66f89318/qwr9ew/s/s04/01.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-country="ID" group-title="Lokal",RCTI
-https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1598104097~acl=%2f*~data=hdntl~hmac=a4308f964c2febe56e93df576cd72249f453a6aef5737f8001bb97fc38b14cee/rcti_fta-avc1_1000000=3.m3u8?virtualDomain=000001.live_hls.zte.com
+https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1598104097~acl=%2f*~data=hdntl~hmac=a4308f964c2febe56e93df576cd72249f453a6aef5737f8001bb97fc38b14cee/rcti_fta-avc1_1000000=3.m3u8
 #EXTINF:0 tvg-country="ID" group-title="Lokal",MNCTV
-https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1598104176~acl=%2f*~data=hdntl~hmac=1e6c50a53d3cd264d7e2d95a81bc0b28f16573e96616dc03a65cb4a2593889f1/mnctv_fta-avc1_1000000=3.m3u8?virtualDomain=000001.live_hls.zte.com
+https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1598104176~acl=%2f*~data=hdntl~hmac=1e6c50a53d3cd264d7e2d95a81bc0b28f16573e96616dc03a65cb4a2593889f1/mnctv_fta-avc1_1000000=3.m3u8
 #EXTINF:0 tvg-country="ID" group-title="Lokal",GTV
-https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/hdntl=exp=1598104216~acl=%2f*~data=hdntl~hmac=c6578dea065f83722292af2513c21f5643960e4622a4825eb2a88ffde4f60d53/gtv_fta-avc1_1000000=3.m3u8?virtualDomain=000001.live_hls.zte.com
+https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/hdntl=exp=1598104216~acl=%2f*~data=hdntl~hmac=c6578dea065f83722292af2513c21f5643960e4622a4825eb2a88ffde4f60d53/gtv_fta-avc1_1000000=3.m3u8
 #EXTINF:0 tvg-country="ID" group-title="Lokal",iNews
-https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1598104249~acl=%2f*~data=hdntl~hmac=e8d15d4ba8c53adcc1601ffcfac64d9799478cff247d8188f6d9ea1cebcb2e3d/inews_fta-avc1_1000000=3.m3u8?virtualDomain=000001.live_hls.zte.com
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1598104249~acl=%2f*~data=hdntl~hmac=e8d15d4ba8c53adcc1601ffcfac64d9799478cff247d8188f6d9ea1cebcb2e3d/inews_fta-avc1_1000000=3.m3u8
 
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Trans TV
 http://210.210.155.35/session/0b61eff2-e3b3-11ea-babd-c81f66f89318/x6bnqe/s/s252/01.m3u8?virtualDomain=000001.live_hls.zte.com
