@@ -1,32 +1,38 @@
 #EXTM3U
 #PLAYLIST:cimosoft.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Metro TV
-http://210.210.155.35/session/a7d64eb6-e39d-11ea-9071-b82a72d63267/uq2663/h/h12/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/bbedf146-e3b2-11ea-a9d6-b82a72d63267/uq2663/h/h12/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",TVOne
-http://210.210.155.35/session/c1825c24-e39d-11ea-b7f4-b82a72d63267/qwr9ew/s/s105/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/d0fc2418-e3b2-11ea-af60-b82a72d63267/qwr9ew/s/s105/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",SCTV
-http://210.210.155.35/session/110ae580-e39f-11ea-8e17-b82a72d63267/qwr9ew/s/s03/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/e81ca08c-e3b2-11ea-a183-b82a72d63267/qwr9ew/s/s03/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Indosiar
-http://210.210.155.35/session/1ffe522a-e39f-11ea-8e17-b82a72d63267/qwr9ew/s/s04/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/f9297d82-e3b2-11ea-87e1-c81f66f89318/qwr9ew/s/s04/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Trans TV
-http://210.210.155.35/session/2aafd658-e39f-11ea-a8d2-c81f66f89318/x6bnqe/s/s252/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/0b61eff2-e3b3-11ea-babd-c81f66f89318/x6bnqe/s/s252/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Trans 7
-http://210.210.155.35/session/42bdfdc4-e39f-11ea-babd-c81f66f89318/qwr9ew/s/s101/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/20ad63a0-e3b3-11ea-a1dc-c81f66f89318/qwr9ew/s/s101/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",ANTV
-http://210.210.155.35/session/42bdfdc4-e39f-11ea-babd-c81f66f89318/qwr9ew/s/s101/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/3139855a-e3b3-11ea-a75d-c81f66f89318/qwr9ew/s/s07/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",NET.
-http://210.210.155.35/session/5a220c76-e39f-11ea-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/444a413e-e3b3-11ea-8760-c81f66f89318/qwr9ew/s/s08/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Kompas TV
-http://210.210.155.35/session/66aa9e0e-e39f-11ea-a7c0-c81f66f89318/qwr9ew/s/s104/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/5996cf3a-e3b3-11ea-901e-b82a72d63267/qwr9ew/s/s104/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",TVRI Nasional
-http://210.210.155.35/session/7523dce8-e39f-11ea-a7c0-c81f66f89318/qwr9ew/s/s11/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/6a88e0c6-e3b3-11ea-8855-b82a72d63267/qwr9ew/s/s11/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",RTV
-http://210.210.155.35/session/7da20570-e39f-11ea-a7c0-c81f66f89318/qwr9ew/s/s12/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/7e3ba176-e3b3-11ea-8760-c81f66f89318/qwr9ew/s/s12/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu?virtualDomain=000001.live_hls.zte.com
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
 #EXTINF:0 tvg-country="ID" group-title="Lokal",DAAI TV
-http://210.210.155.35/session/afbddfc0-e39f-11ea-af60-b82a72d63267/qwr9ew/s/s13/01.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/b74b44c6-e3b3-11ea-af60-b82a72d63267/qwr9ew/s/s13/01.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-country="ID" group-title="Lokal",MyTV
-https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_288p/chunks.m3u8?nimblesessionid=201025732&app_type=web&chname=MYTV&tkn=829341hrjhaq0q30q&userid=50n13N0v14nd1?virtualDomain=000001.live_hls.zte.com
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8?nimblesessionid=201074895&app_type=web&chname=MYTV&tkn=829341hrjhaq0q30q&userid=50n13N0v14nd1
 #EXTINF:0 tvg-country="ID" group-title="Lokal",TVRI Sports HD
-https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_288p/chunks.m3u8?nimblesessionid=201025734&app_type=web&chname=MYTV&tkn=829341hrjhaq0q30q&userid=50n13N0v14nd1?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/dc0380da-e3b3-11ea-a7a0-c81f66f89318/qwr9ew/s/s107/02.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-country="ID" group-title="Dens Eksl",Dens TV Live Streaming 1
+http://210.210.155.35/session/0ea45fdc-e3b4-11ea-a328-c81f66f89318/x6bnqe/s/s37/S4/mnf.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-country="ID" group-title="Dens Eksl",Dens TV Live Streaming 2
+http://210.210.155.35/session/1c554e8e-e3b4-11ea-adb6-b82a72d63267/uq2663/h/h46/S4/mnf.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-country="ID" group-title="Dens Eksl",Mola Sport Free
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Mola_Sports_Free_Trial-&virtualDomain=000001.live_hls.zte.com
